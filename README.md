@@ -1,3 +1,3 @@
 # Bootstrap Model
 
-![](/img/captura.jpg)
+![](/img/captura.jpeg)
